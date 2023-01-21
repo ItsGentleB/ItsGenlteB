@@ -59,9 +59,9 @@ Nonna on the Go is a first attempt at creating a web app in less than a week. It
 </p>
 
 
-<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3> 
 
-<p align="center">
+<p align="left">
 <br>
 <a href="https://www.linkedin.com/in/b-stolb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://medium.com/@bstolb/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
