@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm B</h1>  
+<h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
+
 <h3> About Me </h3>
 
 - 😄 Pronouns: They/Them
