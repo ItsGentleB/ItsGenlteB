@@ -59,7 +59,7 @@ Nonna on the Go is a first attempt at creating a web app in less than a week. It
 </p>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3> 
 
 <p align="center">
 <br>
