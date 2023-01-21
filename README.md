@@ -2,6 +2,7 @@
 <h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
 
 <h3> About Me </h3>
+I used to bake bread, now I keep code from coming out half-baked 🥖
 
 - 😄 Pronouns: They/Them
 - 🔭 I’m currently working on: a tournament tracker app for the defunct game of Epic: Armageddon
@@ -11,7 +12,7 @@
 - 💬 Ask me about: anything! I will help in any way I can.
 - 🌍 I support: TransTech, Women Who Code, QueerTech
 - 💜 Interests: cooking, travel, rats, tabletop games, video games, Farscape
-- ⚡ Fun fact: I used to be a provincial 5-pin bowling champion! 
+- ⚡ Fun fact: I used to be a provincial 5-pin bowling champion! 🎳
 
 <br/>
 
