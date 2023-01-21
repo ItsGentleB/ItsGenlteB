@@ -73,9 +73,9 @@ Nonna on the Go is a first attempt at creating a web app in less than a week. It
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/ItsGentleB">
+<a align= "right" href="https://github.com/ItsGentleB">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=ItsGentleB&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="center" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
