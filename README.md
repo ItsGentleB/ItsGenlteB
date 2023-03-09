@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm B</h1>  
+<h1 align="center">Hi 👋, I'm Bri</h1>  
 <h3 align="center">An emerging Full Stack Developer from Canada 🇨🇦</h3>
 <br/>
 <div align="center">
@@ -12,7 +12,7 @@
 <h3> About Me </h3>
 I used to bake bread, now I keep code from coming out half-baked 🥖
 
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: a tournament tracker app for the defunct game of Epic: Armageddon
 - :heart: My favorite language: Javascript
 - 🌱 I’m currently learning: NextJS and Prisma
